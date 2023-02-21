@@ -1,0 +1,28 @@
+D:\vscode\c_test\SharpAVKB\SharpAVKB\bin\Release\SharpAVKB.exe.config
+D:\vscode\c_test\SharpAVKB\SharpAVKB\obj\Release\SharpAVKB.csprojResolveAssemblyReference.cache
+D:\vscode\c_test\SharpAVKB\SharpAVKB\bin\Release\SharpAVKB.exe
+D:\vscode\c_test\SharpAVKB\SharpAVKB\bin\Release\SharpAVKB.pdb
+D:\vscode\c_test\SharpAVKB\SharpAVKB\bin\Release\Newtonsoft.Json.dll
+D:\vscode\c_test\SharpAVKB\SharpAVKB\bin\Release\Newtonsoft.Json.pdb
+D:\vscode\c_test\SharpAVKB\SharpAVKB\bin\Release\Newtonsoft.Json.xml
+D:\vscode\c_test\SharpAVKB\SharpAVKB\obj\Release\SharpAVKB.exe
+D:\vscode\c_test\SharpAVKB\SharpAVKB\obj\Release\SharpAVKB.pdb
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-master\SharpAVKB\bin\Release\SharpAVKB.exe.config
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-master\SharpAVKB\bin\Release\SharpAVKB.exe
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-master\SharpAVKB\bin\Release\SharpAVKB.pdb
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-master\SharpAVKB\obj\Release\SharpAVKB.csproj.CoreCompileInputs.cache
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-master\SharpAVKB\obj\Release\SharpAVKB.exe
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-master\SharpAVKB\obj\Release\SharpAVKB.pdb
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-master\SharpAVKB\bin\Release\Newtonsoft.Json.dll
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-master\SharpAVKB\obj\Release\SharpAVKB.csproj.CopyComplete
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-master\SharpAVKB\obj\Release\SharpAVKB.csproj.AssemblyReference.cache
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-master\SharpAVKB\obj\Release\SharpAVKB.csproj.SuggestedBindingRedirects.cache
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-v2\SharpAVKB\bin\Release\SharpAVKB.exe.config
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-v2\SharpAVKB\bin\Release\SharpAVKB.exe
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-v2\SharpAVKB\bin\Release\SharpAVKB.pdb
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-v2\SharpAVKB\bin\Release\Newtonsoft.Json.dll
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-v2\SharpAVKB\obj\Release\SharpAVKB.csproj.AssemblyReference.cache
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-v2\SharpAVKB\obj\Release\SharpAVKB.csproj.CoreCompileInputs.cache
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-v2\SharpAVKB\obj\Release\SharpAVKB.csproj.CopyComplete
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-v2\SharpAVKB\obj\Release\SharpAVKB.exe
+D:\渗透测试\渗透测试\04.内网渗透\远程控制\Cobalt strike\Cobaltstrike_插件\部分插件源码\SharpAVKB-master\SharpAVKB-v2\SharpAVKB\obj\Release\SharpAVKB.pdb
