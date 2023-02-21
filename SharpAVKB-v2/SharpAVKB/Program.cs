@@ -11,25 +11,22 @@ namespace SharpAVKB
     {
         static void Main(string[] args)
         {
-            if (args.Length == 0)
+            if (args.Length < 2)
             {
                 Console.WriteLine("\n\rAuthor: s1g0day");
                 Console.WriteLine("Github: https://github.com/s1g0day/SharpAVKB-Modify/SharpAVKB-v2/");
-                Console.WriteLine("Usage: SharpAVKB.exe -AV");
+                Console.WriteLine("Usage: SharpAVKB.exe -AV avlist.json");
 
             }
-            if (args.Length == 1 && args[0] == "-AV")
+            if (args.Length == 2 && args[0] == "-AV")
             {
                 Console.WriteLine("\n\r========== SharpAVKB --> GetWindowsAnti-VirusSoftware ==========\n\r");
-                getav(av());
+                getav(av(args[1]));
             }
         }
 
-
-        public static Dictionary<string, string> av()
+        public static Dictionary<string, string> av(string jsonfile)
         {
-            string jsonfile = "avlist.json";//JSON文件路径
-
             using (System.IO.StreamReader file = System.IO.File.OpenText(jsonfile))
             {
                 using (JsonTextReader reader = new JsonTextReader(file))
